@@ -1,0 +1,1 @@
+var obj = { kle :"dd",ji:"dhjd"};
